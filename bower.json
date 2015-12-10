@@ -1,0 +1,18 @@
+{
+  "name": "unraveling_angular",
+  "homepage": "https://github.com/JRedeker/unraveling_angular",
+  "authors": [
+    "Jon <jon.redeker@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
